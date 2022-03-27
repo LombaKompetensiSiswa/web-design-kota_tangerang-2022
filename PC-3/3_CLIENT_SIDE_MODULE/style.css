@@ -1,0 +1,15 @@
+.box-parent {
+  border: 2px solid red;
+
+  max-width: 960px;
+  max-height: 600px;
+
+  margin: auto;
+  margin-top: 0px;
+}
+
+.kotak {
+  border: 1px solid green;
+  margin: 2px;
+  width: auto;
+}

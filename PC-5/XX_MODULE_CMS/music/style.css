@@ -1,0 +1,26 @@
+*Play Button
+music-box {
+	position: fixed;
+	width: 50px;;
+	height: 50px;
+	z-index: 120;
+	bottom: 50%;
+	right: 20px;
+} 
+.music-box button {
+	background:;
+	width: 50px;
+	height: 50px;
+	border: 1px solid #e6e6e6;
+	outline: 0;
+	padding: 0;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	border-radius: 50%;
+}
+.music-box button i{
+	font size: 26px;
+	color : #FACA96;
+	vertical-align: middle;
+}
